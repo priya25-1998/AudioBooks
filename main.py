@@ -15,4 +15,4 @@ for num in pages(7, pages):       # start page to end of the page
     speaker.runAndWait()
 
 
-    # install pip install pyttsx3 and pip install PyPDF2
+    # install -> pip install pyttsx3 and pip install PyPDF2
